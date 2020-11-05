@@ -1,0 +1,151 @@
+#title{
+  background-color: #ff4c68;
+}
+h3{
+  font-family: "Pacifico";
+  size: 1.5rem;
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+.ico{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.ico:hover{
+  color: #ff4c68;
+}
+.ic{
+  color: #ff4c68;
+}
+#features{
+  padding: 7% 15%;
+  position: relative;
+  z-index: 1;
+  background-color: #000000;
+}
+.anopage{
+  background-color: #ff4c68;
+  padding-left: 500px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.fb{
+  text-align: center;
+  padding: 5%;
+}
+.fea{
+  color: #8f8f8f;
+}
+h1{
+  font-family: "Pacifico";
+  size: 3.5rem;
+  line-height: 1.5;
+  color: #FFFFFF;
+}
+.container-fluid{
+  padding: 3% 15% 15%;
+}
+.tt{
+  color: #fad5ad;
+}
+.ip{
+  width: 100%;
+  padding: 12px;
+}
+h2{
+  font-family: "Pacifico";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.press-logo{
+  width: 15%;
+  padding: 20px 20px 50px;
+}
+#press{
+  background-color: #ef8172;
+  padding-bottom: 3%;
+  text-align: center;
+}
+.testimonial-image{
+  width: 30%;
+  border-radius: 100%;
+  margin:20px;
+}
+/*body{
+  font-family: "Montserrat";
+}*/
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.navbar{
+  padding-bottom: 5%;
+}
+.nav-item{
+  padding: 0px 18px;
+}
+.nav-link{
+  font-family: "Montserrat-light";
+}
+.download-button{
+margin:3% 3% 3% 0%;
+}
+.iphoneimg{
+  margin-bottom: 2rem;
+  width:100%;
+  position: absolute;
+padding-right: 5%;
+}
+#testimonials{
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#pricing{
+  padding: 100px;
+  background-color: #000000;
+}
+.pricing-col {
+  padding: 3%;
+  text-align: center;
+}
+.lov{
+  margin-left: 150px;
+  margin-right: 150px;
+}
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  color: #fff;
+  padding: 100px;
+}
+#footer{
+  background-color: black;
+  text-align: center;
+  padding: 30px;
+}
+.f{
+  margin: 1% 1% 1% 0%;
+}
+.foot{
+    color: #fad5ad;
+}
+@media(max-width:1028px)
+{
+  #title{
+    text-align: center;
+  }
+  .iphoneimg{
+    position: static;
+    transform: rotate(0);
+  }
+}
